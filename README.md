@@ -3,3 +3,4 @@ This repository consists of a notebook (Notebook Jupyter) from my Kaggle account
 
 List of dataset's link :
 1. Data-Analyst-Job Dataset : https://www.kaggle.com/andrewmvd/data-analyst-jobs
+2. Drug Classification : https://www.kaggle.com/prathamtripathi/drug-classification
